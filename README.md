@@ -32,6 +32,6 @@ This is my custom rice of KDE Plasma 6 inspired by the aesthetic of the the port
 2. Customize further according to your preferences using KDE Plasma's extensive customization options.
 
 ## Additional Resources
-- **Icons** Enhance the look with these [Icons](https://store.kde.org/p/1359276)
-- **Tiling Window Manager** Finish it off with [Polonium](https://store.kde.org/p/2042756)
+- **Icons:** Enhance the look with these [Icons](https://store.kde.org/p/1359276)
+- **Tiling Window Manager:** Finish it off with [Polonium](https://store.kde.org/p/2042756)
 
