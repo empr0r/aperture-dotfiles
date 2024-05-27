@@ -1,5 +1,7 @@
 # Aperture KDE Rice
+![aperture_rice_home](https://github.com/empr0r/aperture-dotfiles/assets/165341203/0374072c-c82c-40d8-b97b-f6c436551002)
 ![aperture_rice](https://github.com/empr0r/aperture-dotfiles/assets/165341203/62f37951-bfed-44a2-a967-34eb3f0c72b3)
+![aperture_rice_dolphin](https://github.com/empr0r/aperture-dotfiles/assets/165341203/7aa36480-9025-4977-93e9-10fe29303039)
 
 ## Description
 
