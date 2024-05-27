@@ -23,7 +23,7 @@ This is my custom rice of KDE Plasma 6 inspired by the aesthetic of the the port
 1. Clone/download this repo to you computer
 2. Navigate to the directory containing the repo
 3. Open terminal in directory
-4. enter `chmod +x install.sh`.
+4. enter `chmod +x install.sh`
 5. Run the install script by typing `./install.sh`
 
 ## Usage
