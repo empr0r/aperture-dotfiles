@@ -35,3 +35,6 @@ This is my custom rice of KDE Plasma 6 inspired by the aesthetic of the the port
 - **Icons:** Enhance the look with these [Icons](https://store.kde.org/p/1359276)
 - **Tiling Window Manager:** Finish it off with [Polonium](https://store.kde.org/p/2042756)
 
+## License
+
+**This project is licensed under the MIT License. See the LICENSE file for details.**
