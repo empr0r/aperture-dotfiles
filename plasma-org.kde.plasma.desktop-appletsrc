@@ -8,7 +8,7 @@ RightButton;NoModifier=org.kde.contextmenu
 ItemGeometries-1536x864=
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
-activityId=80f0c5c3-ba79-4f48-8a78-2eebbd93c123
+activityId=87226cc1-e70a-4031-bec0-5d40909a5d87
 formfactor=0
 immutability=1
 lastScreen=0
@@ -16,14 +16,19 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][1][General]
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=192
 ToolBoxButtonY=32
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/empr0r/Downloads/wallpaper.png
-SlidePaths=/usr/share/wallpapers/
+Image=/home/empr0r/.local/share/wallpapers/wallpaper.png
+PreviewImage=/home/empr0r/.local/share/wallpapers/wallpaper.png
+SlidePaths=/home/empr0r/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][2]
 activityId=
@@ -59,7 +64,7 @@ plugin=org.kde.plasma.kickoff
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
 popupHeight=510
-popupWidth=685
+popupWidth=647
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
@@ -68,7 +73,7 @@ favoritesPortedToKAstats=true
 global=Alt+F1
 
 [Containments][2][Applets][3][Shortcuts]
-global=Alt+F1
+global=
 
 [Containments][2][Applets][4]
 immutability=1
@@ -83,7 +88,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=80
+PreloadWeight=100
 SystrayContainmentId=8
 
 [Containments][2][General]
@@ -109,7 +114,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][11][Configuration]
-PreloadWeight=55
+PreloadWeight=70
 
 [Containments][8][Applets][12]
 immutability=1
@@ -142,6 +147,7 @@ plugin=org.kde.plasma.volume
 PreloadWeight=100
 
 [Containments][8][Applets][17][Configuration][General]
+currentTab=streams
 migrated=true
 
 [Containments][8][Applets][18]
@@ -171,14 +177,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][24][Configuration]
-PreloadWeight=65
+PreloadWeight=100
 
 [Containments][8][Applets][26]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][8][Applets][26][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][8][Applets][9]
 immutability=1
