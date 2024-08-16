@@ -39,6 +39,7 @@ mv ApertureAmber.profile ~/.local/share/konsole/
 # KDE
 mv Aperture.colors ~/.local/share/color-schemes/
 mv plasma-org.kde.plasma.desktop-appletsrc ~/.config/
+mv plasmashellrc ~/.config/
 
 
 echo "Install complete"
